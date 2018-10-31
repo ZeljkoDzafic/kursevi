@@ -1,0 +1,4 @@
+# Zadaca 5
+ 
+Napraviti XML file - provjeriti njegovu validnost
+XML file sadrzi listu knjiga, knjiga ima informacije naslov, ISBN, autor, opis 
